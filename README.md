@@ -2,7 +2,9 @@
 
 <a href="https://sivaraj47.github.io/our-team-card-design/">Preview</a>
 
-<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/f769b1a7-a167-4a13-9cb2-ce42a872bc5e" />
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/51a2035c-7c5c-41ff-8a6f-8de7725a5d65" />
+
+
 🎨 The power of pure CSS transitions in action!
 Just completed this Team Card Design using only HTML & CSS - no JavaScript needed!
 ✨ What makes it special:
